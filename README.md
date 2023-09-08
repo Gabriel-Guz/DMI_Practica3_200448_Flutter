@@ -10,7 +10,7 @@
 ## Ingeniería en Desarrollo y Gestión de Software
 ## Gabriel Guzmán Garcia 
 ## 10A
-### Desarrollo de Dispositivos Inteligentes
+### Primera aplicación en flutter
 
 # Aplicación de Desarrollo Móvil - Practica 3 - Aplicación Flutter
 

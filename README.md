@@ -10,7 +10,7 @@
 ## Ingeniería en Desarrollo y Gestión de Software
 ## Gabriel Guzmán Garcia - 200448
 ## 10A
-### Modificación de estilización de fuente y colores.
+  ### Primera aplicación en flutter
 # Aplicación de Desarrollo Móvil - Practica 3
 # practica3_200448
 

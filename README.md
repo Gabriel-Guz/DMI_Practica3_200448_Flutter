@@ -1,3 +1,17 @@
+
+
+[![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
+
+<div align="center">
+  
+# Universidad Tecnológica de Xicotepec de Juárez
+
+
+## Ingeniería en Desarrollo y Gestión de Software
+## Gabriel Guzmán Garcia - 200448
+## 10A
+### Modificación de estilización de fuente y colores.
+# Aplicación de Desarrollo Móvil - Practica 3
 # practica3_200448
 
 A new Flutter project.
